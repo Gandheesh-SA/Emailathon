@@ -1,0 +1,18 @@
+{
+  "name": "confirmationmail",
+  "version": "1.0.0",
+  "description": "An app that sends in confirmation mail once you sign in or sign up",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S.A.Gandheesh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "firebase": "^8.2.1"
+  }
+}
